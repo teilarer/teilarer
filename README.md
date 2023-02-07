@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
+<h1 align="center">Hi 👋, I'm Max, frontend developer</h1>
 - 📫 You can  reach me at maxpopov19@icloud.com
 
 <h3 align="left">Connect with me:</h3>
